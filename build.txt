@@ -1,0 +1,3 @@
+displayName = Overlord Vanities
+author = Redriver7693
+version = 1.41

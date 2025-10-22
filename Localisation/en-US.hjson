@@ -1,0 +1,862 @@
+Mods: {
+	OverlordVanities: {
+		Items: {
+			AinzCape: {
+				DisplayName: Overlord Gown
+				Tooltip: ""
+			}
+
+			AinzChain: {
+				DisplayName: Overlord Chain
+				Tooltip: ""
+			}
+
+			AinzNecklace: {
+				DisplayName: Overlord Necklace
+				Tooltip: ""
+			}
+
+			AlbedoWings: {
+				DisplayName: Overseer Wing
+				Tooltip: ""
+			}
+
+			ClementineCape: {
+				DisplayName: Windstride Cloak
+				Tooltip: ""
+			}
+
+			DemiurgeTail: {
+				DisplayName: Devil Tail
+				Tooltip: ""
+			}
+
+			EvileyeCape: {
+				DisplayName: Landfall Cape
+				Tooltip: ""
+			}
+
+			GagaranCape: {
+				DisplayName: Lovely Warrior Cape
+				Tooltip: ""
+			}
+
+			GazefCape: {
+				DisplayName: Guardian Cape
+				Tooltip: ""
+			}
+
+			JaldabaothMask: {
+				DisplayName: Suspicious Looking Mask
+				Tooltip: ""
+			}
+
+			MareCape: {
+				DisplayName: Avarice and Generosity
+				Tooltip: ""
+			}
+
+			MareGloves: {
+				DisplayName: Devil Tail
+				Tooltip: ""
+			}
+
+			MomonCape: {
+				DisplayName: Dark Hero Cape
+				Tooltip: ""
+			}
+
+			NabeCape: {
+				DisplayName: Beautiful Princess Cape
+				Tooltip: ""
+			}
+
+			PandoraCape: {
+				DisplayName: Doppelg�nger Jacket
+				Tooltip: ""
+			}
+
+			PeroroncinoWings: {
+				DisplayName: Winged King Wings
+				Tooltip: ""
+			}
+
+			ShalltearWings: {
+				DisplayName: Valkyrie Wings
+				Tooltip: ""
+			}
+
+			TouchMeCape: {
+				DisplayName: Cape of the Law
+				Tooltip: ""
+			}
+
+			TouchMeShield: {
+				DisplayName: Shield of the Law
+				Tooltip: ""
+			}
+
+			UlbertCape: {
+				DisplayName: Demon Cape
+				Tooltip: ""
+			}
+
+			AinzHead: {
+				DisplayName: Overlord Skull
+				Tooltip: ""
+			}
+
+			AinzBody: {
+				DisplayName: Overlord Robe
+				Tooltip: ""
+			}
+
+			AinzLegs: {
+				DisplayName: Overlord Hem
+				Tooltip: ""
+			}
+
+			AinzBlackBody: {
+				DisplayName: Overlord Black Robe
+				Tooltip: ""
+			}
+
+			AinzBlackLegs: {
+				DisplayName: Overlord Black Hem
+				Tooltip: ""
+			}
+
+			AinzDisguiseHead: {
+				DisplayName: Mask of Envy
+				Tooltip: ""
+			}
+
+			AinzDisguiseBody: {
+				DisplayName: Overlord Disguise
+				Tooltip: ""
+			}
+
+			AinzDisguiseBlackBody: {
+				DisplayName: Overlord Black Disguise
+				Tooltip: ""
+			}
+
+			AlbedoHead: {
+				DisplayName: Overseer Mask
+				Tooltip: ""
+			}
+
+			AlbedoBody: {
+				DisplayName: Overseer Dress
+				Tooltip: ""
+			}
+
+			AlbedoLegs: {
+				DisplayName: Overseer Skirt
+				Tooltip: ""
+			}
+
+			AlbedoArmorHead: {
+				DisplayName: Hermes Helmet
+				Tooltip: ""
+			}
+
+			AlbedoArmorBody: {
+				DisplayName: Hernes Breastplate
+				Tooltip: ""
+			}
+
+			AlbedoArmorLegs: {
+				DisplayName: Hermes Leggings
+				Tooltip: ""
+			}
+
+			AuraHead: {
+				DisplayName: Dark Elf Girl Mask
+				Tooltip: ""
+			}
+
+			AuraBody: {
+				DisplayName: Dark Elf Girl Suit
+				Tooltip: ""
+			}
+
+			AuraLegs: {
+				DisplayName: Dark Elf Girl Pants
+				Tooltip: ""
+			}
+
+			BrainHead: {
+				DisplayName: Mercenary Mask
+				Tooltip: ""
+			}
+
+			BrainBody: {
+				DisplayName: Mercenary Shirt
+				Tooltip: ""
+			}
+
+			BrainLegs: {
+				DisplayName: Mercenary Pants
+				Tooltip: ""
+			}
+
+			ClementineHead: {
+				DisplayName: Windstride Mask
+				Tooltip: ""
+			}
+
+			ClementineBody: {
+				DisplayName: Windstride Breastplate
+				Tooltip: ""
+			}
+
+			ClementineLegs: {
+				DisplayName: Windstride Leggings
+				Tooltip: ""
+			}
+
+			ClimbHead: {
+				DisplayName: Faithful Knight Mask
+				Tooltip: ""
+			}
+
+			ClimbBody: {
+				DisplayName: Faithful Knight Breastplate
+				Tooltip: ""
+			}
+
+			ClimbLegs: {
+				DisplayName: Faithful Knight Leggings
+				Tooltip: ""
+			}
+
+			CocytusHead: {
+				DisplayName: Frozen Helmet
+				Tooltip: ""
+			}
+
+			CocytusBody: {
+				DisplayName: Frozen Breastplate
+				Tooltip: ""
+			}
+
+			CocytusBodyGolden: {
+				DisplayName: Frozen Gold Breastplate
+				Tooltip: ""
+			}
+
+			CocytusLegs: {
+				DisplayName: Frozen Leggings
+				Tooltip: ""
+			}
+
+			DemiurgeHead: {
+				DisplayName: Devil Mask
+				Tooltip: ""
+			}
+
+			DemiurgeBody: {
+				DisplayName: Devil Suit
+				Tooltip: ""
+			}
+
+			DemiurgeLegs: {
+				DisplayName: Devil Pants
+				Tooltip: ""
+			}
+
+			EntomaHead: {
+				DisplayName: Zeta Mask
+				Tooltip: ""
+			}
+
+			EntomaBody: {
+				DisplayName: Zeta Dress
+				Tooltip: ""
+			}
+
+			EntomaLegs: {
+				DisplayName: Zeta Stockings
+				Tooltip: ""
+			}
+
+			EntomaSpider: {
+				DisplayName: Spider Talisman
+				Tooltip: Turns the holder into a Spider
+			}
+
+			EvileyeHead: {
+				DisplayName: Landfall Mask
+				Tooltip: ""
+			}
+
+			EvileyeHood: {
+				DisplayName: Landfall Hood
+				Tooltip: ""
+			}
+
+			EvileyeBody: {
+				DisplayName: Landfall Dress
+				Tooltip: ""
+			}
+
+			EvileyeLegs: {
+				DisplayName: Landfall Stockings
+				Tooltip: ""
+			}
+
+			GagaranHead: {
+				DisplayName: Lovely Warrior Mask
+				Tooltip: ""
+			}
+
+			GagaranBody: {
+				DisplayName: Lovely Warrior Breastplate
+				Tooltip: ""
+			}
+
+			GagaranLegs: {
+				DisplayName: Lovely Warrior Leggings
+				Tooltip: ""
+			}
+
+			GazefHead: {
+				DisplayName: Warrior Captain Mask
+				Tooltip: ""
+			}
+
+			GazefBody: {
+				DisplayName: Warrior Captain Breastplate
+				Tooltip: ""
+			}
+
+			GazefLegs: {
+				DisplayName: Warrior Captain Leggings
+				Tooltip: ""
+			}
+
+			GazefArmorHead: {
+				DisplayName: Guardian Helmet
+				Tooltip: ""
+			}
+
+			GazefArmorBody: {
+				DisplayName: Guardian Breastplate
+				Tooltip: ""
+			}
+
+			GazefArmorLegs: {
+				DisplayName: Guardian Leggings
+				Tooltip: ""
+			}
+
+			LakyusHead: {
+				DisplayName: Blue Rose Mask
+				Tooltip: ""
+			}
+
+			LakyusBody: {
+				DisplayName: Blue Rose Breastplate
+				Tooltip: ""
+			}
+
+			LakyusLegs: {
+				DisplayName: Blue Rose Leggings
+				Tooltip: ""
+			}
+
+			LupusreginaHead: {
+				DisplayName: Beta Mask
+				Tooltip: ""
+			}
+
+			LupusreginaBody: {
+				DisplayName: Beta Dress
+				Tooltip: ""
+			}
+
+			LupusreginaLegs: {
+				DisplayName: Beta Skirt
+				Tooltip: ""
+			}
+
+			MareHead: {
+				DisplayName: Dark Elf Boy Mask
+				Tooltip: ""
+			}
+
+			MareBody: {
+				DisplayName: Dark Elf Boy Suit
+				Tooltip: ""
+			}
+
+			MareLegs: {
+				DisplayName: Dark Elf Boy Skirt
+				Tooltip: ""
+			}
+
+			MomonHead: {
+				DisplayName: Dark Hero Helmet
+				Tooltip: ""
+			}
+
+			MomonBody: {
+				DisplayName: Dark Hero Breastplate
+				Tooltip: ""
+			}
+
+			MomonLegs: {
+				DisplayName: Dark Hero Leggings
+				Tooltip: ""
+			}
+
+			NabeHead: {
+				DisplayName: Beautiful Princess Mask
+				Tooltip: ""
+			}
+
+			NabeBody: {
+				DisplayName: Beautiful Princess Shirt
+				Tooltip: ""
+			}
+
+			NabeLegs: {
+				DisplayName: Beautiful Princess Pants
+				Tooltip: ""
+			}
+
+			NarberalHead: {
+				DisplayName: Gamma Mask
+				Tooltip: ""
+			}
+
+			NarberalBody: {
+				DisplayName: Gamma Dress
+				Tooltip: ""
+			}
+
+			NarberalLegs: {
+				DisplayName: Gamma Skirt
+				Tooltip: ""
+			}
+
+			PandoraHead: {
+				DisplayName: Doppelg�nger Mask
+				Tooltip: ""
+			}
+
+			PandoraBody: {
+				DisplayName: Doppelg�nger Suit
+				Tooltip: ""
+			}
+
+			PandoraLegs: {
+				DisplayName: Doppelg�nger Pants
+				Tooltip: ""
+			}
+
+			PeroroncinoHead: {
+				DisplayName: Winged King Helmet
+				Tooltip: ""
+			}
+
+			PeroroncinoBody: {
+				DisplayName: Winged King Breastplate
+				Tooltip: ""
+			}
+
+			PeroroncinoLegs: {
+				DisplayName: Winged King Leggings
+				Tooltip: ""
+			}
+
+			PlatinumHead: {
+				DisplayName: Platinum Dragon Helmet
+				Tooltip: ""
+			}
+
+			PlatinumBody: {
+				DisplayName: Platinum Dragon Breastplate
+				Tooltip: ""
+			}
+
+			PlatinumLegs: {
+				DisplayName: Platinum Dragon Leggings
+				Tooltip: ""
+			}
+
+			RennerHead: {
+				DisplayName: Golden Princess Mask
+				Tooltip: ""
+			}
+
+			RennerBody: {
+				DisplayName: Golden Princess Dress
+				Tooltip: ""
+			}
+
+			RennerLegs: {
+				DisplayName: Golden Princess Skirt
+				Tooltip: ""
+			}
+
+			SebasHead: {
+				DisplayName: Butler Mask
+				Tooltip: ""
+			}
+
+			SebasBody: {
+				DisplayName: Butler Suit
+				Tooltip: ""
+			}
+
+			SebasLegs: {
+				DisplayName: Butler Pants
+				Tooltip: ""
+			}
+
+			ShalltearHead: {
+				DisplayName: Vampire Mask
+				Tooltip: ""
+			}
+
+			ShalltearBody: {
+				DisplayName: Vampire Dress
+				Tooltip: ""
+			}
+
+			ShalltearLegs: {
+				DisplayName: Vampire Skirt
+				Tooltip: ""
+			}
+
+			ShalltearArmorHead: {
+				DisplayName: Valkyrie Helmet
+				Tooltip: ""
+			}
+
+			ShalltearArmorBody: {
+				DisplayName: Valkyrie Breastplate
+				Tooltip: ""
+			}
+
+			ShalltearArmorLegs: {
+				DisplayName: Valkyrie Leggings
+				Tooltip: ""
+			}
+
+			ShizuHead: {
+				DisplayName: Delta Mask
+				Tooltip: ""
+			}
+
+			ShizuBody: {
+				DisplayName: Delta Dress
+				Tooltip: ""
+			}
+
+			ShizuLegs: {
+				DisplayName: Delta Skirt
+				Tooltip: ""
+			}
+
+			SolutionHead: {
+				DisplayName: Epsilon Mask
+				Tooltip: ""
+			}
+
+			SolutionBody: {
+				DisplayName: Epsilon Dress
+				Tooltip: ""
+			}
+
+			SolutionLegs: {
+				DisplayName: Epsilon Skirt
+				Tooltip: ""
+			}
+
+			TiaHead: {
+				DisplayName: Blue Assassin Mask
+				Tooltip: ""
+			}
+
+			TiaBody: {
+				DisplayName: Blue Assassin Breastplate
+				Tooltip: ""
+			}
+
+			TiaLegs: {
+				DisplayName: Blue Assassin Pants
+				Tooltip: ""
+			}
+
+			TinaHead: {
+				DisplayName: Red Assassin Mask
+				Tooltip: ""
+			}
+
+			TinaBody: {
+				DisplayName: Red Assassin Breastplate
+				Tooltip: ""
+			}
+
+			TinaLegs: {
+				DisplayName: Red Assassin Pants
+				Tooltip: ""
+			}
+
+			TouchMeHead: {
+				DisplayName: Helmet of the Law
+				Tooltip: ""
+			}
+
+			TouchMeBody: {
+				DisplayName: Breastplate of the Law
+				Tooltip: ""
+			}
+
+			TouchMeLegs: {
+				DisplayName: Leggings of the Law
+				Tooltip: ""
+			}
+
+			UlbertHead: {
+				DisplayName: Demon Mask
+				Tooltip: ""
+			}
+
+			UlbertBody: {
+				DisplayName: Demon Suit
+				Tooltip: ""
+			}
+
+			UlbertLegs: {
+				DisplayName: Demon Hooves
+				Tooltip: ""
+			}
+
+			YuriHead: {
+				DisplayName: Alpha Mask
+				Tooltip: ""
+			}
+
+			YuriBody: {
+				DisplayName: Alpha Dress
+				Tooltip: ""
+			}
+
+			YuriLegs: {
+				DisplayName: Alpha Skirt
+				Tooltip: ""
+			}
+
+			AinzPainting: {
+				DisplayName: Judgement
+				Tooltip: "'R.R 7693'"
+			}
+
+			ArenaPainting: {
+				DisplayName: Amphitheatre
+				Tooltip: "'R.R 7693'"
+			}
+
+			BigAinzPainting: {
+				DisplayName: Ainz Ooal Gown Portrait
+				Tooltip: "'R.R 7693'"
+			}
+
+			BigShalltearPainting: {
+				DisplayName: Shalltear Bloodfallen Portrait
+				Tooltip: "'R.R 7693'"
+			}
+
+			DesertPainting: {
+				DisplayName: The Wilderness
+				Tooltip: "'R.R 7693'"
+			}
+
+			GlacierPainting: {
+				DisplayName: Glacier
+				Tooltip: "'R.R 7693'"
+			}
+
+			GravePainting: {
+				DisplayName: Tomb
+				Tooltip: "'R.R 7693'"
+			}
+
+			LakePainting: {
+				DisplayName: The Great Lake
+				Tooltip: "'R.R 7693'"
+			}
+
+			LavaPainting: {
+				DisplayName: River of Lava
+				Tooltip: "'R.R 7693'"
+			}
+
+			OfficePainting: {
+				DisplayName: The Royal Suite
+				Tooltip: "'R.R 7693'"
+			}
+
+			ShallChair: {
+				DisplayName: Vampire Chair
+				Tooltip: "'A chair for the supreme.'"
+			}
+
+			SurfacePainting: {
+				DisplayName: Mausoleum
+				Tooltip: "'R.R 7693'"
+			}
+
+			ThronePainting: {
+				DisplayName: Throne of Kings
+				Tooltip: "'R.R 7693'"
+			}
+
+			TreasurePainting: {
+				DisplayName: Treasury
+				Tooltip: "'R.R 7693'"
+			}
+
+			AinzHeadItem: {
+				DisplayName: Yggdrasil Coin
+				Tooltip: Summons the Skull of the Overlord
+			}
+
+			AlbedoItem: {
+				DisplayName: Overseer Horns
+				Tooltip: Summons the Overseer
+			}
+
+			DarkYoungItem: {
+				DisplayName: Dark Goo
+				Tooltip: Summons Dark Young
+			}
+
+			DeathKnightItem: {
+				DisplayName: Tiny Flamberge
+				Tooltip: Summons a Death Knight
+			}
+
+			GargantuaItem: {
+				DisplayName: The Great Lake
+				Tooltip: Summons Gargantua
+			}
+
+			GinnungagapItem: {
+				DisplayName: Ginnungagap
+				Tooltip: Summons Ginnungagap
+			}
+
+			PandoraCatItem: {
+				DisplayName: Total Maniac
+				Tooltip: Summons the Doppelg�nger
+			}
+
+			ShalltearItem: {
+				DisplayName: Spuit Lance
+				Tooltip: Summons the Bloody Valkyrie
+			}
+
+			SmallAinzItem: {
+				DisplayName: Overlord Orb
+				Tooltip: Summons the Overlord
+			}
+
+			SOAOGItem: {
+				DisplayName: Staff of the Overlord
+				Tooltip: Summons the Staff of the Overlord
+			}
+
+			VictimItem: {
+				DisplayName: Pure halo
+				Tooltip: Summons the Angel
+			}
+
+			CocytusItem: {
+				DisplayName: Frozen Orb
+				Tooltip: Summons the Frozen Guardian
+			}
+		}
+
+		Buffs: {
+			AinzHeadBuff: {
+				DisplayName: Overlord Skull
+				Description: "'Skull of the Overlord'"
+			}
+
+			AlbedoBuff: {
+				DisplayName: Overseer
+				Description: "'Overseer of the Great Tomb'"
+			}
+
+			DarkYoungBuff: {
+				DisplayName: Dark Young
+				Description: "'The child of Shub-Niggurath.'"
+			}
+
+			DeathKnightBuff: {
+				DisplayName: Death Knight
+				Description: "'The souls who fall to the Death Knight�s blade will become its slaves for all eternity.'"
+			}
+
+			GargantuaBuff: {
+				DisplayName: Gargantua
+				Description: "'Stone Golem.'"
+			}
+
+			GinnungagapBuff: {
+				DisplayName: Ginnungagap
+				Description: "'Staff of the Overseer'"
+			}
+
+			PandoraCatBuff: {
+				DisplayName: Doppelg�nger
+				Description: "'The Doppelg�nger in the form of a cat.'"
+			}
+
+			ShalltearBuff: {
+				DisplayName: Valkyrie
+				Description: "'The Bloody Valkyrie.'"
+			}
+
+			SmallAinzBuff: {
+				DisplayName: Overlord
+				Description: "'The Overlord'"
+			}
+
+			VictimBuff: {
+				DisplayName: Angel
+				Description: ""
+			}
+
+			SOAOGBuff: {
+				DisplayName: Overlord Staff
+				Description: ""
+			}
+
+			CocytusBuff: {
+				DisplayName: Frozen Guardian Buff
+				Description: ""
+			}
+		}
+
+		Projectiles: {
+			AinzHeadProjectile.DisplayName: Overlord Skull
+			AlbedoProjectile.DisplayName: Overseer
+			DarkYoungProjectile.DisplayName: Dark Young
+			DeathKnightProjectile.DisplayName: Death Knight
+			GargantuaProjectile.DisplayName: Gargantua
+			GinnungagapProjectile.DisplayName: Ginnungagap
+			PandoraCatProjectile.DisplayName: Doppelg�nger Cat
+			ShalltearProjectile.DisplayName: Valkyrie
+			SmallAinzProjectile.DisplayName: Overlord
+			SOAOGProjectile.DisplayName: Overlord Staff
+			VictimProjectile.DisplayName: Angel
+			CocytusProjectile.DisplayName: Frozen Guardian
+		}
+	}
+}

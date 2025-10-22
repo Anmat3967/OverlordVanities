@@ -1,0 +1,16 @@
+Overlord Vanities is a mod that adds vanity items related to the series "Overlord" by Kugane Maruyama.
+This was originally a texture pack, but I was unhappy with it so I decided to remake it as a mod, including completely new sprites in some cases.
+
+Currently includes:
+36 vanity sets (2 are not full sets),
+19 vanity accessories,
+3 wings (with fledgling wing stats),
+13 paintings,
+8 pets,
+3 light pets.
+
+I also made an Overlord music pack: https://steamcommunity.com/sharedfiles/filedetails/?id=2520791670
+It replaces all music except for Otherworld ones.
+
+I'm new to making mods so there are many flaws. if you think you can help me, then let me know on discord @Anmat#0923. I especially need help with pets and mounts.
+There's a couple things I haven't added yet and will hopefully add in the future
