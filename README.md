@@ -1,4 +1,4 @@
-Overlord Vanities is a mod that adds vanity items related to the series "Overlord" by Kugane Maruyama.
+Overlord Vanities is a Terraria mod that adds vanity items related to the series "Overlord" by Kugane Maruyama.
 This was originally a texture pack, but I was unhappy with it so I decided to remake it as a mod, including completely new sprites in some cases.
 The code may be very rough, as this was the first code I ever tried to write other than a few tests. I got most of it from examplemod or by looking at how other mods do things.
 
